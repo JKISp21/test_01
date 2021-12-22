@@ -4,3 +4,6 @@ TestTestTest
 
 TestTestTest
 CentOS 7 Test2 Test2 Test
+
+WIN 10
+Test3 Test3 Test3
